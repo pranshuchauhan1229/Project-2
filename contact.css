@@ -1,0 +1,13 @@
+.contact{
+    border: 5px solid black;
+    height: 10vh;
+    border-radius: 12px;
+}
+.contact:hover{
+    background-color: rgb(168, 214, 249);
+}
+.contact h3 a{
+    font-weight: bold;
+    color: red;
+    text-decoration: none;
+}

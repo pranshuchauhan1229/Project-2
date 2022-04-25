@@ -1,0 +1,28 @@
+#playerList{
+    font-size: 1.3rem;
+    list-style: none;
+}
+#playerList li a{
+    color:red;
+    text-decoration: none;
+}
+#player_list h1{
+    color: blue;
+}
+#playerList img{
+    height: 10vh;
+    color: red;
+}
+
+
+#staffList{
+    font-size: 1.3rem;
+    list-style: none;
+}
+#staffList li a{
+    color: blue;
+    text-decoration: none;
+}
+#staff_list h1{
+    color: red;
+}
